@@ -30,15 +30,22 @@ body{
     width: 70%;
     padding: 0;
     text-align: left;
+    background: #ffffff;
     border: 1px solid #dddddd;
     margin: 0 auto;
+}
+
+.container .post {
+    padding: 1em;
 }
 
 .container .post h1{
     font-size: 20px;
 }
 
-.container .post{
-    background: #ffffff;
-    padding: 1em;
+footer{
+    background-color: #777777;
+    color: #ffffff;
+    text-align: center;
+    padding: 0.5em;
 }
